@@ -1,3 +1,5 @@
+//https://github.com/oyangncho/ITSS1311
+
 //Enter 5 elements of the list 1 : 1 2 3 4 5
 //Enter 5 elements of the list 2 : 1 2 3 4 5
 //Two lists are strictly identical
